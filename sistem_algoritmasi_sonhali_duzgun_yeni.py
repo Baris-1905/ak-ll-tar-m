@@ -64,7 +64,14 @@ if st.session_state.get("authenticated"):
     sulama = st.selectbox("Sulama Durumu", ["var", "yok"])
 
     st.header("📍 Lokasyon ve Veriler")
-    lokasyon = st.text_input("İl/İlçe/Köy")
+    hinis_koyleri = [
+    "Aşağıkayabaşı", "Ballı", "Başköy", "Bellitaş", "Camiişerif", "Dağyurdu",
+    "Deliktaş", "Erbeyli", "Göller", "Halilçavuş", "Karakale", "Karlıca",
+    "Kızılkale", "Konakkale", "Murat", "Ovaçevirme", "Söğütlü", "Topraklı",
+    "Yaprakbaşı", "Yukarıkayabaşı"
+]
+lokasyon = st.selectbox("Köy/Mahalle Seç", hinis_koyleri)
+
     verim_dosya = st.file_uploader("Verim Verisi (CSV)", type="csv")
 
     rakim = None
