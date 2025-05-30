@@ -71,7 +71,6 @@ if st.session_state.get("authenticated"):
     "Yaprakbaşı", "Yukarıkayabaşı"
 ]
 lokasyon = st.selectbox("Köy/Mahalle Seç", hinis_koyleri)
-
     verim_dosya = st.file_uploader("Verim Verisi (CSV)", type="csv")
 
     rakim = None
