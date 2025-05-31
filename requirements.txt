@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+geopy
+pyrebase4
+gcloud
+firebase-admin
