@@ -3,5 +3,5 @@ pandas
 numpy
 geopy
 pyrebase4
-gcloud
+google-cloud-storage
 firebase-admin
