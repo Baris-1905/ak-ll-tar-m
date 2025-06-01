@@ -1,7 +1,6 @@
 streamlit
 pandas
 numpy
+requests
 geopy
-pyrebase4
-firebase-admin
-google-cloud-storage
+openpyxl
