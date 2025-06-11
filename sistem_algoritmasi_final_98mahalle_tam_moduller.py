@@ -29,8 +29,8 @@ mahalle_verisi = {
     "Sıcaklık (°C)": 8.1
   },
   "AKGÖZE": {
-    "Enlem": 39.403999999999996,
-    "Boylam": 41.504,
+    "Enlem": 39.4
+    "Boylam": 41.5
     "Rakım (m)": 1674.0,
     "Sıcaklık (°C)": 8.3
   },
@@ -58,7 +58,7 @@ mahalle_verisi = {
     "Rakım (m)": 1698.0,
     "Sıcaklık (°C)": 7.9
   },
-  "ALİKIRI ABDALAN": {
+  "ALİKIRI": {
     "Enlem": 39.409,
     "Boylam": 41.509,
     "Rakım (m)": 1704.0,
@@ -161,8 +161,8 @@ mahalle_verisi = {
     "Sıcaklık (°C)": 7.7
   },
   "DERİNCE": {
-    "Enlem": 39.426,
-    "Boylam": 41.526,
+    "Enlem": 39.4,
+    "Boylam": 41.5,
     "Rakım (m)": 1686.0,
     "Sıcaklık (°C)": 7.9
   },
@@ -173,8 +173,8 @@ mahalle_verisi = {
     "Sıcaklık (°C)": 8.1
   },
   "DİBEKLİ": {
-    "Enlem": 39.428,
-    "Boylam": 41.528,
+    "Enlem": 39.4,
+    "Boylam": 41.5,
     "Rakım (m)": 1698.0,
     "Sıcaklık (°C)": 8.3
   },
@@ -197,8 +197,8 @@ mahalle_verisi = {
     "Sıcaklık (°C)": 7.7
   },
   "ERBEYLİ": {
-    "Enlem": 39.431999999999995,
-    "Boylam": 41.532,
+    "Enlem": 39.4,
+    "Boylam": 41.5,
     "Rakım (m)": 1722.0,
     "Sıcaklık (°C)": 7.9
   },
@@ -215,7 +215,7 @@ mahalle_verisi = {
     "Sıcaklık (°C)": 8.3
   },
   "ESENLİ": {
-    "Enlem": 39.434999999999995,
+    "Enlem": 39.4,
     "Boylam": 41.535,
     "Rakım (m)": 1740.0,
     "Sıcaklık (°C)": 8.5
