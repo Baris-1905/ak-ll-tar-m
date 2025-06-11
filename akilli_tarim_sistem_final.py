@@ -3557,7 +3557,7 @@ if anahtar in veri:
     st.markdown(f"- **Fosfor Durumu:** {v['Fosfor']}")
 
     urun = st.selectbox("Ürün Seçiniz", ["Buğday", "Arpa", "Fasulye"])
-    sulama_yapildi = st.radio("Bu sezon sulama yaptınız mı?", ["Evet", "Hayır"])
+    sulama_yapildi = st.radio("Sulama yapılıyor mu?", ["Evet", "Hayır"])
     arazi = st.number_input("Arazi büyüklüğü (dekar):", min_value=1)
 
     # SULAMA UYARISI
