@@ -1,3 +1,0 @@
-# Akıllı Tarım Karar Destek Sistemi
-
-# Kod üretimi başlatılıyor...
