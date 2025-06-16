@@ -58,7 +58,7 @@ mahalle_verisi = {
     "Rakım (m)": 1698.0,
     "Sıcaklık (°C)": 7.9
   },
-  "ALİKIRI ABDALAN": {
+  "ALİKIRI ": {
     "Enlem": 39.409,
     "Boylam": 41.509,
     "Rakım (m)": 1704.0,
